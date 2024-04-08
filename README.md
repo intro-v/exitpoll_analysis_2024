@@ -7,10 +7,10 @@ In _data_preparation.ipynb_ I prepare two files _"exitpolls_grouped_data.xlsx"_ 
 
 
 Source of data:
-- Exit poll _"Экзитполы \_Голосуй за рубежом_ 15-17 марта 2024 - Raw data.xlsx"_: https://voteabroad.info/#results-block
+- Exit poll _"Экзитполы \_Голосуй за рубежом\_ 15-17 марта 2024 - Raw data.xlsx"_: https://voteabroad.info/#results-block
 - Official results _"results-uik-20240318T1503UTC.tsv"_: https://t.me/nevybory/131
 
-Because of encoding it's difficult to parse a site with official results, so I took them from those who already have parsed. Just in case:
+Because of encoding it's difficult to parse a site with official results, so I took them from those who already have parsed it. Just in case:
 
 - official results can be found here http://vybory.izbirkom.ru and you need a vpn;
 - an explanation of why it is tricky to parse the site is here https://habr.com/ru/articles/579492/ .
